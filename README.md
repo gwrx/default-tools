@@ -1,3 +1,3 @@
 # My default tools
 
-A set of shell scripts to quickly setup virtual machines.
+A set of shell scripts and files for every day use
